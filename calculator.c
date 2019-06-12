@@ -2,7 +2,8 @@
 #include<conio.h>
 void main()
 {
-double a, b, result;
+int a,b;
+double result;
 char choice;
 clrscr();
 result = 0;
